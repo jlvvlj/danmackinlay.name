@@ -5,25 +5,22 @@
    after all.
    ---------------------------------------------------------*/
     body {
-   
+      padding: 1em;
+      max-width: 50em;
+      margin-left: auto;
+      margin-right: auto;
     }
     /* Default link styling */
     a:link { color:#0271fb; }
     a:visited { color:#bd02fb; }
     a:hover, a:focus { color:#000; }
     a:active { color:#fb0e02; }
-    
-    
-    
-/* ---------------------------------------------------------
-   Author's styles
-   ---------------------------------------------------------*/
-    body {
-   
+    p {
     }
-
-
-    
+    img {
+      display: inline-block;
+      max-width: 48em;
+    }
 /* ---------------------------------------------------------
    Print styles
    ---------------------------------------------------------*/
