@@ -1,0 +1,1 @@
+rsync -av --partial --progress --delete --exclude=.git ./ bodyworker@staticplus.possumpalace.org:webapps/danmackinlay_name/
