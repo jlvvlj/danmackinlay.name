@@ -1,17 +1,14 @@
-/* ---------------------------------------------------------
-   HTML5 Bones
-   This stylesheet contains print styling and a section for 
-   you to simply add your own. This is a basic template 
-   after all.
-   ---------------------------------------------------------*/
     body {
       padding: 1em;
       max-width: 40em;
       margin-left: auto;
       margin-right: auto;
     }
-    /* Default link styling */
-    a:link { color:#0271fb; }
+    /*  link styling */
+    a:link {
+      color:#0271fb;
+      text-decoration: none;
+    }
     a:visited { color:#bd02fb; }
     a:hover, a:focus { color:#000; }
     a:active { color:#fb0e02; }
@@ -29,7 +26,9 @@
     }
     article, nav {
       margin-left: 1em;
-
+    }
+    footer {
+      text-align: center;
     }
 /* ---------------------------------------------------------
    Print styles
