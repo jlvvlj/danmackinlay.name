@@ -3,6 +3,7 @@
       max-width: 40em;
       margin-left: auto;
       margin-right: auto;
+      font-size: 1.1em;
     }
     /*  link styling */
     a:link {
@@ -14,15 +15,28 @@
     a:active { color:#fb0e02; }
     p {
     }
-    img {
+    figure {
       display: block;
       max-width: 38em;
       margin-left: auto;
       margin-right: auto;
     }
+    figure img {
+      width: 100%;
+    }
+    figcaption {
+      display: block;
+      font-size: 80%;
+      margin: 0.4em;
+      text-align: center;
+    }
     h1, h2, h3, h4, h5, h6 {
-      margin-left: 1em;
       text-indent: -1em;
+      margin-left: 1em;
+    }
+    article h1, article h2, article h3, article h4, article h5, article h6,
+    nav h1, nav h2, nav h3, nav h4, nav h5, nav h6 {
+      margin-left: 0;
     }
     article, nav {
       margin-left: 1em;
