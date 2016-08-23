@@ -10,6 +10,15 @@
     <!--[if lt IE 9]><script src="js/html5shiv-printshiv.js" media="all"></script><![endif]-->
     <link rel="shortcut icon" type="image/ico" href="./favicon.ico">
     <link rel="apple-touch-icon-precomposed" href="./icon.png">
+    <script>
+      if (
+        !(
+          window.location.host.startsWith("127.0.0.1") || window.location.host.startsWith("localhost")
+        ) && (window.location.protocol != "https:")
+      ) {
+        window.location.protocol = "https";
+      }
+    </script>
 </head>
 <body>
     <header role="banner">
@@ -26,7 +35,7 @@
                   <p>You came here because of one of my projects:</p>
                   <ul>
                     <li>
-                      <a href="http://livingthing.danmackinlay.name/">The Living Thing</a>, where I keep my research notes, mostly in probability theory and statistical inference.
+                      <a href="https://livingthing.danmackinlay.name/">The Living Thing</a>, where I keep my research notes, mostly in probability theory and statistical inference.
                     </li>
                     <li>
                       <a href="http://hiteklotek.danmackinlay.name/">Hitek/Lotek</a>, a Sundanese pop/electronic dance music crossover collaboration.
@@ -38,7 +47,7 @@
                       <a href="https://www.mixcloud.com/howthebodyworks/">Bodywerk</a>, my slammin' DJ project.
                     </li>
                     <li>
-                      <a href="http://synestizer.com/">Synestizer</a>, an audiovisual synthesizer for which I am technical lead.
+                      <a href="https://synestizer.com/">Synestizer</a>, an audiovisual synthesizer for which I am technical lead.
                     </li>
                     <li>
                       <a href="https://github.com/howthebodyworks/">My github page hosts various software I wrote</a>. (Yes, you can contact me about developing software for you, but no, please don't bother unless it has a significant statistical or machine learning angle.)
