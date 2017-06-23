@@ -1,1 +1,1 @@
-rsync -av --partial --progress --delete --exclude=.git --exclude=".DS_Store" --exclude="*.sh" --exclude="*.py" ./ bodyworker@staticplus.possumpalace.org:webapps/danmackinlay_name/
+rsync -av --partial --progress --delete --exclude=.git --exclude=".DS_Store" --exclude="*.sh" --exclude="*.py" ./ bodyworker@web570.webfaction.com:webapps/danmackinlay_name/
