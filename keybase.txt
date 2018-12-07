@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/danmackinlay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danmackinlay.name
+  * I am danmackinlay (https://keybase.io/danmackinlay) on keybase.
+  * I have a public key ASBW9iWVglwJj-mtImYHR5uYigzQc-aCyVHThu_sQN9umAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012056f62595825c098fe9ad226607479b988a0cd073e682c951d386efec40df6e980a",
+      "host": "keybase.io",
+      "kid": "012056f62595825c098fe9ad226607479b988a0cd073e682c951d386efec40df6e980a",
+      "uid": "5a6d6e17f3d994bfac854538e98bf719",
+      "username": "danmackinlay"
+    },
+    "merkle_root": {
+      "ctime": 1507869124,
+      "hash": "cfa50ae9d3e14ef206ef4a98ba8c16a79e17c9ae8e10ea23b3883b78429bc9a67ff9fc42c744e6807785b727e0d60f58430ffc7141411facb7d13d35cc3f5a69",
+      "hash_meta": "183b97039f155dafa1623b0eba3b769262586232f77b9848e601d6e116fb7ef4",
+      "seqno": 1570461
+    },
+    "service": {
+      "hostname": "danmackinlay.name",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507869140,
+  "expire_in": 504576000,
+  "prev": "cdf7755413785ce231ba8833485052c1612b6b0191d57a25708c3efd5ab5bb78",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVvYllYJcCY/prSJmB0ebmIoM0HPmgslR04bv7EDfbpgKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTZmNjI1OTU4MjVjMDk4ZmU5YWQyMjY2MDc0NzliOTg4YTBjZDA3M2U2ODJjOTUxZDM4NmVmZWM0MGRmNmU5ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTZmNjI1OTU4MjVjMDk4ZmU5YWQyMjY2MDc0NzliOTg4YTBjZDA3M2U2ODJjOTUxZDM4NmVmZWM0MGRmNmU5ODBhIiwidWlkIjoiNWE2ZDZlMTdmM2Q5OTRiZmFjODU0NTM4ZTk4YmY3MTkiLCJ1c2VybmFtZSI6ImRhbm1hY2tpbmxheSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzg2OTEyNCwiaGFzaCI6ImNmYTUwYWU5ZDNlMTRlZjIwNmVmNGE5OGJhOGMxNmE3OWUxN2M5YWU4ZTEwZWEyM2IzODgzYjc4NDI5YmM5YTY3ZmY5ZmM0MmM3NDRlNjgwNzc4NWI3MjdlMGQ2MGY1ODQzMGZmYzcxNDE0MTFmYWNiN2QxM2QzNWNjM2Y1YTY5IiwiaGFzaF9tZXRhIjoiMTgzYjk3MDM5ZjE1NWRhZmExNjIzYjBlYmEzYjc2OTI2MjU4NjIzMmY3N2I5ODQ4ZTYwMWQ2ZTExNmZiN2VmNCIsInNlcW5vIjoxNTcwNDYxfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhbm1hY2tpbmxheS5uYW1lIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDc4NjkxNDAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiY2RmNzc1NTQxMzc4NWNlMjMxYmE4ODMzNDg1MDUyYzE2MTJiNmIwMTkxZDU3YTI1NzA4YzNlZmQ1YWI1YmI3OCIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMdY0hGbBsht6rG997pmsCzjoyWwEwX7my18515QwI6za4qaRBW+ZWKgyTQwETxVVdIwrQvFl1B+rXQH0OWIgwaoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAv/teX5Kuy1YdRy/dAkwCtWru4LU5FOtz4UUCiB6xFgKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danmackinlay
+
+==================================================================
