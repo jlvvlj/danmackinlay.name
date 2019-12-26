@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: danmackinlay.name
+Token: 8ac62613399a48e6a1af18f1bdbc7665c8990c95fbfc966b7dff609e6fc54175 
